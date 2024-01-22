@@ -1,6 +1,6 @@
 import * as playersProfile from "./players_profile.js";
 import * as gameCharacters from "./game_characters.js";
-import * as battleChallenge from "./battle_challenge_update.js";
+import * as battleChallenge from "./battle_challenge.js";
 
 
 
