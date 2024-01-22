@@ -69,7 +69,7 @@ const allStrategy = {
     // let selectedChar = getCharacterDetails(characters);
     let highestHealthCharacter = selectedChar[0];
 
-    console.log("selectedChar", selectedChar, "characters", selectedChar)
+    // console.log("selectedChar", selectedChar, "characters", selectedChar)
 
     for (let i = 0; i < selectedChar.length; i++) {
       if (selectedChar[i].health > highestHealthCharacter.health) {

@@ -1,6 +1,6 @@
 import * as playersProfile from "./players_profile.js";
 import * as gameCharacters from "./game_characters.js";
-import * as battleChallenge from "./battle_challenge.js";
+import * as battleChallenge from "./battle_challenge_update.js";
 
 
 
@@ -105,4 +105,4 @@ getDuelInfo(1)
 
 fight(1)
 
-// getDuelInfo(1)
+getDuelInfo(1)
